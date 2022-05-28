@@ -1,0 +1,7 @@
+Необходима папка Yalmip
+1)Устанавливаем sedumi:
+1.1) запускаем sedumi_instal.m из папки sedumi-master
+2)Добавляем в MATLAB addpath(genpath('C:\course\matlab\Yalmip\YALMIP-master'))
+3)Пишем в консоли run yalmiptest.m
+4)На всякий случай запустить instal.m
+5)Готово
